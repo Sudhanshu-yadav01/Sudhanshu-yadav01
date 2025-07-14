@@ -4,8 +4,7 @@
 Email Me 👉 ✉️ **iamsdyadav@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently studing in:** Dy Patil RAIT - Navi mumbai
-- 🌱 **I’m currently learning:** Backend
-- 🤔 **I’m looking for help with:** Cloud Engineering
+- 🌱 **I’m currently learning:** Cloud Engineering
 - 📫 **How to reach me:** iamsdyadav@gmail.com
 
 
